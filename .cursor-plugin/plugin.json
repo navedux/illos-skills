@@ -1,0 +1,9 @@
+{
+  "name": "illos",
+  "description": "Find and add animated SVG illustrations from Illos.dev to your site: hero, feature sections, empty states, docs. 65 free, light and dark.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Naved Alam",
+    "url": "https://illos.dev"
+  }
+}

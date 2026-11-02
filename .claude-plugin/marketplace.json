@@ -1,0 +1,15 @@
+{
+  "name": "illos-dev",
+  "description": "Animated SVG illustrations for websites and apps, from Illos.dev",
+  "owner": {
+    "name": "Naved Alam",
+    "url": "https://illos.dev"
+  },
+  "plugins": [
+    {
+      "name": "illos",
+      "source": "./",
+      "description": "Find and add animated SVG illustrations from Illos.dev to your site: hero, feature sections, empty states, docs. 65 free, light and dark."
+    }
+  ]
+}
