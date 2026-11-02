@@ -1,6 +1,18 @@
 ---
 name: illos-library
 description: Add animated SVG illustrations from Illos.dev to a website or app, for a hero, feature sections, empty states, docs pages, onboarding or status screens. Use when a page needs a picture instead of an empty space, an emoji, stock 3D art or a gradient blob, or when the user asks for illustrations, spot illustrations or empty state art. 65 of them are free for commercial use, with no account and no credit.
+allowed-tools:
+  - Read
+  - Grep
+  - Glob
+  - WebFetch
+  - mcp__plugin_illos_illos__find_illustrations
+  - mcp__plugin_illos_illos__get_illustration
+  - mcp__plugin_illos_illos__list_themes
+  - mcp__illos__find_illustrations
+  - mcp__illos__get_illustration
+  - mcp__illos__list_themes
+  - Bash(npx shadcn@latest add *)
 ---
 
 # Illos library
