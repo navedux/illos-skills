@@ -1,6 +1,6 @@
 # Illos skills
 
-[![mcptry](https://mcptry.com/badge/dev.illos/illos)](https://mcptry.com/servers/dev.illos/illos)
+[![mcptry](https://mcptry.com/badge/dev.illos/illos)](https://mcptry.com/servers/dev.illos/illos) [![Illos illustrations MCP server](https://mcprush.com/badge/illos-illustrations-mcp/compact.svg)](https://mcprush.com/to/illos-illustrations-mcp?ref=badge) [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/navedux/illos-skills)
 
 Animated SVG illustrations for your website or app, added by your coding agent. This repo has a free skill and the Illos MCP server, packaged for Claude Code, Cursor, Codex and any agent that reads `SKILL.md` folders.
 
