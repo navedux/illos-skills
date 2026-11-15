@@ -4,7 +4,7 @@
 
 Animated SVG illustrations for your website or app, added by your coding agent. This repo has a free skill and the Illos MCP server, packaged for Claude Code, Cursor, Codex and any agent that reads `SKILL.md` folders.
 
-[Illos.dev](https://illos.dev) has 158 animated illustrations in four themes (Shader, HUD, Isometric and Interface), each in light and dark. 65 are free for commercial use, with no account and no credit.
+[Illos.dev](https://illos.dev) makes animated SVG illustrations for product and developer sites, in Shader, HUD, Isometric, Interface and Cybernetics styles, each in light and dark. A free set is free for commercial use, with no account and no credit. Illos Pro adds the full library and skills that draw new illustrations on-style.
 
 ## What it does
 

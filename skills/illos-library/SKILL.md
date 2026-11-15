@@ -1,6 +1,6 @@
 ---
 name: illos-library
-description: Add animated SVG illustrations from Illos.dev to a website or app, for a hero, feature sections, empty states, docs pages, onboarding or status screens. Use when a page needs a picture instead of an empty space, an emoji, stock 3D art or a gradient blob, or when the user asks for illustrations, spot illustrations or empty state art. 65 of them are free for commercial use, with no account and no credit.
+description: Add animated SVG illustrations from Illos.dev to a website or app, for a hero, feature sections, empty states, docs pages, onboarding or status screens. Use when a page needs a picture instead of an empty space, an emoji, stock 3D art or a gradient blob, or when the user asks for illustrations, spot illustrations or empty state art. A free set is free for commercial use, with no account and no credit.
 allowed-tools:
   - Read
   - Grep
@@ -17,7 +17,7 @@ allowed-tools:
 
 # Illos library
 
-Illos.dev has 158 animated SVG illustrations in four themes, each in light and dark. Each one is a single SVG file with its animation inside. This skill finds the right ones for a project and adds them.
+Illos.dev has a library of animated SVG illustrations, each in light and dark. Each one is a single SVG file with its animation inside. This skill finds the right ones for a project and adds them.
 
 ## 1. Find the places that need a picture
 
